@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="c03_smida_jakub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/c03_smida_jakub_jar</output-path>
+    <root id="archive" name="c03_smida_jakub.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jogl-all.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+    </root>
+  </artifact>
+</component>
